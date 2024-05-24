@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "name":" Tiki Cat Aloha Friends Tuna Variety Pack 12/3oz Cans",
+        "price": 1250,
+        "image": "1.png"
+    },
+    {
+        "id": 2,
+        "name":" Natural Balance Platefulls Cat Food Indoor Turkey, Salmon & Chicken Formula In Gravy 85g",
+        "price": 120,
+        "image": "2.png"
+    },
+    {
+        "id": 3,
+        "name":" Tiki Cat Hawaiian Grill 6 Flavor King Kamehameha Variety Pack 12/2.8oz Cans",
+        "price": 1500,
+        "image": "3.png"
+    },
+    {
+        "id": 4,
+        "name":" Tiki Cat Pouch Mousse Light Turkey & Chicken 2.4 Oz",
+        "price": 130,
+        "image": "4.png"
+    },
+    {
+        "id": 5,
+        "name":" Tiki Cat Luau Variety Pack 12 Cans/ 80g",
+        "price": 1750,
+        "image": "5.png"
+    },
+    {
+        "id": 6,
+        "name":" Tiki Cat Broths Pouch Duck & Chicken 37g",
+        "price": 100,
+        "image": "6.png"
+    },
+    {
+        "id": 7,
+        "name":" Orijen Cat Dry Food Cat & Kitten Food 5.4 Kg",
+        "price": 3000,
+        "image": "7.png"
+    },
+    {
+        "id": 8,
+        "name":" Taste Of The Wild Cat Dry Food Canyon River Feline 6.6kg",
+        "price": 2650,
+        "image": "8.png"
+    },
+    {
+        "id": 9,
+        "name":" Tiki Cat Velvet Mousse Chicken And Egg 80g",
+        "price": 135,
+        "image": "9.png"
+    },
+    {
+        "id": 10,
+        "name":" Woof Freeze Dried Lamb Dog Food 50g",
+        "price": 355,
+        "image": "10.png"
+    },
+    {
+        "id": 11,
+        "name":" Wellness Soft Puppy Bites Lamb & Salmon Recipe 85g",
+        "price": 300,
+        "image": "11.png"
+    },
+    {
+        "id": 12,
+        "name":" Tiki Dog Taste Of France! Beef Burgundy Canned Dog Food 340g",
+        "price": 375,
+        "image": "12.png"
+    },
+    {
+        "id": 13,
+        "name":" Cloud Star Tricky Trainers Soft & Chewy Chicken Liver 142g",
+        "price": 400,
+        "image": "13.png"
+    },
+    {
+        "id": 14,
+        "name":" Buddy Biscuits Trainers Training Bites Bacon 283g",
+        "price": 395,
+        "image": "14.png"
+    },
+    {
+        "id": 15,
+        "name":" Orijen Six Fish Dry Dog Food 11.4kg",
+        "price": 5015,
+        "image": "15.png"
+    },
+    {
+        "id": 16,
+        "name":" Orijen Original Dry Dog Food 11.4 Kg",
+        "price": 4750,
+        "image": "16.png"
+    },
+    {
+        "id": 17,
+        "name":" Cloud Star Tricky Trainers Crunchy Liver 227g",
+        "price": 385,
+        "image": "17.png"
+    },
+    {
+        "id": 18,
+        "name":" Cloud Star Tricky Trainers Crunchy Cheddar 227g",
+        "price": 385,
+        "image": "18.png"
+    }
+]
